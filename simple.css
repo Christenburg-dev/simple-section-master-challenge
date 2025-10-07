@@ -205,7 +205,7 @@ img{
 
 
 /* mobile Screens*/
-@media (max-width: 412px) {
+@media (max-width: 500px) {
     #heading h1{
         font-size: 25px;
         
@@ -260,5 +260,6 @@ img{
         .intro p{
             font-size: 14px;
         }
+
 
 }
